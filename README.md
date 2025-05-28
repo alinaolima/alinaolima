@@ -1,5 +1,5 @@
 ## Oii! Alinão, aqui! 🐈‍⬛
-Sou estudante de Engenharia da Computação na Universidade Federal do Amazonas (UFAM) e, no momento, estou focada em aprender e crescer na área de desenvolvimento web.
+Sou estudante de Engenharia da Computação na UFAM e, no momento, estou focada em aprender e crescer na área de desenvolvimento web.
 <div>
   <a href="https://github.com/alinaolima">
    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alinaolima&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
