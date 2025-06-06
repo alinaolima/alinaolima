@@ -2,7 +2,7 @@
 Sou estudante de Engenharia da Computação na UFAM e, no momento, estou focada em aprender e crescer na área de desenvolvimento web.
 <div>
   <a href="https://github.com/alinaolima">
-   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alinaolima&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alinaolima&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinaolima&layout=compact&langs_count=16&theme=jolly"/>
   </a>
 </div>
